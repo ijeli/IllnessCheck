@@ -1,7 +1,7 @@
 {
   "development": {
     "username": "root",
-    "password": "",
+    "password": "Newlife7",
     "database": "BlackYellowDB",
     "host": "127.0.0.1",
     "dialect": "mysql"
