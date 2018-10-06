@@ -67,7 +67,7 @@ class Books extends Component {
             <Jumbotron>
               <h1>Black & Yellow Symptom Checker</h1>
             </Jumbotron>
-            <form>
+            {/* <form>
               <Input
                 value={this.state.title}
                 onChange={this.handleInputChange}
@@ -92,7 +92,7 @@ class Books extends Component {
               >
                 Submit Book
               </FormBtn>
-            </form>
+            </form> */}
           </Col>
           <Col size="md-6 sm-12">
             <Jumbotron>
